@@ -1,4 +1,5 @@
-# MATH423_2019
+# MATH 423/533 Linear Regression and Analysis of Variance
+## Department of Mathematics and Statistics, McGill University
  Tutorial material
 
 ## Yi Lian
